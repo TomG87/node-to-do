@@ -9,6 +9,6 @@ var todoSchema = new Schema({
   hasAttachment: Boolean,
 });
 
-var Todos = mongoose.Model("Todos", todoSchema);
+var Todos = mongoose.model("Todos", todoSchema);
 
 module.exports = Todos;

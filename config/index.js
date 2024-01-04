@@ -12,6 +12,6 @@ module.exports = {
   },
 };
 
-{
-  /* mongodb+srv://test:<passwordformongo>@cluster0.id9uqmf.mongodb.net/?retryWrites=true&w=majority" */
-}
+// {
+//   /* mongodb+srv://test:<passwordformongo>@cluster0.id9uqmf.mongodb.net/?retryWrites=true&w=majority" */
+// }
